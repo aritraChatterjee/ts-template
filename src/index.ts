@@ -1,5 +1,5 @@
 export const greet = (): string => {
-    return 'Hello World';
+  return 'Hello World';
 };
 
 console.log(greet());
