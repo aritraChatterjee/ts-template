@@ -1,4 +1,4 @@
-This is a template project structure for any typescript based nodejs application/library. 
+Typescript based nodejs application/library. 
 
 It includes:
 - Jest : for unit and integration tests
